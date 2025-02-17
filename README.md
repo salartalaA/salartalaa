@@ -1,1 +1,1 @@
-<h2>Hey there, Friend! 💙</h2> <p>I'm a little student in developers world :D</p> <h3>✨My skills:</h3> <p> Html, Css (tailwind), JavaScript, ReactJS and NextJS, TypeScript, Redux, Git, ChartJS and I wanna be a professinal FrontEnd developer and create nice things 🎭🎇 </p>
+<h2>Hey there, Friend! 💙</h2> <p>I'm a little student in developers world :D</p> <h3>✨My skills:</h3> <p> Html, Css (tailwind), JavaScript, ReactJS and NextJS, TypeScript, Redux, Git, ChartJS and I wanna be a professinal FrontEnd developer to create nice things 🎭🎇 </p>

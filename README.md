@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋 I'm Salar Karbalei 💻</h2>
 
 <p align="center">
-  A passionate <b>Frontend Developer</b> from Tehran, Iran 🌍 <br/>
+  A passionate <b>Frontend Developer</b> from Earth 🌍 <br/>
   I love building interactive, clean, and user-friendly web applications with modern technologies.
 </p>
 

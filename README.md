@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning and improving my skills in **React, Next.js, and TypeScript**  
+- 🌱 Currently improving my skills in **React, Next.js, and TypeScript**  
 - 🛠 I enjoy solving problems, optimizing performance, and writing clean, maintainable code  
 - 🎯 My goal is to become a professional **Frontend Developer** and work on real-world impactful projects  
 
